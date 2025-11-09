@@ -1,15 +1,39 @@
-# Repository Status
+# ByteWriter
 
-This repository is currently empty as the Codyssey project has been discarded. A new project will be announced soon.
+ByteWriter is a powerful and user-friendly text editor designed for efficient coding and writing, serving as a core CS learning project to master fundamental concepts before scaling up.
 
-## Next Steps
+## Project Overview
 
-The repository is being maintained for a future project. Please check back later for updates on the new project direction and requirements.
+ByteWriter starts as a simple yet functional text editor allowing users to create, open, edit, and save plain text files with essential features. It follows a gradual development approach focused on learning core computer science principles like data structures, file handling, and UI design before adding advanced functionality.
 
-## Repository Information
+## Learning Goals
 
-This repository was previously intended for a code quality analysis tool for Java with AI-powered suggestions, but the project has been discarded.
+- Implement efficient data structures for text manipulation
+- Master file I/O operations and persistence
+- Gain experience with event-driven programming and user interface design
+- Build modular, maintainable, and scalable code
+- Explore algorithms for text editing such as search, replace, and undo/redo
 
-## Team Information
+## Planned Features
 
-The team consists of three members who will be working on the new project once it is announced.
+- Basic text editing: insert, delete, copy-paste
+- File operations: open, save, save as
+- Multi-level undo and redo functionality
+- Syntax highlighting for multiple programming languages
+- Plugin architecture for extensibility
+- Real-time collaboration and cloud syncing (future scope)
+
+## Getting Started
+
+1. Clone the repository
+2. Follow setup instructions for your chosen technology stack
+3. Begin by implementing the core editor modules
+4. Gradually add advanced features as you master the basics
+
+## Contribution
+
+This project is mainly for personal learning, but contributions and suggestions are welcome.
+
+---
+
+Created as a pure learning project to build deep computer science skills and scale incrementally.
